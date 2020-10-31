@@ -1,7 +1,7 @@
 package Domain;
 
 public class Directo extends Empleado{
-    private static final double SALUD =  0.5;
+    private static final double SALUD =  0.05;
     private static final double PENSION =  0.065;
     private long salario;
 

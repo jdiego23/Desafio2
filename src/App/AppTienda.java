@@ -2,12 +2,9 @@ package App;
 
 import Domain.*;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class AppTienda {
     public static void main(String[] args) {
-        
+
         Nomina tCamara = new Nomina();
         Directo juan = new Directo("Juan",4840000);
         Vendedor julian = new Vendedor("Julian",2050000,45510000);
